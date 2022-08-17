@@ -1,5 +1,3 @@
-use heroku_0d3d9a2e88b6da5;
-
 DROP TABLE IF EXISTS `piezas`;
 DROP table IF EXISTS `proveedores`;
 DROP table IF EXISTS `suministra`;
