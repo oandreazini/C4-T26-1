@@ -13,19 +13,26 @@ H2.
 ```
 #### 3. URIs endpoints.
 ```
-Articulos
-GET       /api/article
-POST      /api/article
-GET       /api/article/{id}
-PUT       /api/article/{id}
-DELETE    /api/article/{id}
+Pieces
+GET       /api/pieces
+POST      /api/pieces
+GET       /api/pieces/{id}
+PUT       /api/pieces/{id}
+DELETE    /api/pieces/{id}
 
-Fabricantes
-GET       /api/manufacturer
-POST      /api/manufacturer
-GET       /api/manufacturer/{id}
-PUT       /api/manufacturer/{id}
-DELETE    /api/manufacturer/{id}
+Providers
+GET       /api/providers
+POST      /api/providers
+GET       /api/providers/{id}
+PUT       /api/providers/{id}
+DELETE    /api/providers/{id}
+
+Supplies
+GET       /api/supplies
+POST      /api/supplies
+GET       /api/supplies/{id}
+PUT       /api/supplies/{id}
+DELETE    /api/supplies/{id}
 ```
 
 #### 5. Screenshot imagen que indique cómo debe verse el proyecto.
