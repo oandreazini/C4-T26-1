@@ -35,5 +35,14 @@ PUT       /api/supplies/{id}
 DELETE    /api/supplies/{id}
 ```
 
-#### 5. Screenshot imagen que indique cómo debe verse el proyecto.
-![image](https://user-images.githubusercontent.com/55554433/185445009-d11b0d10-f541-4326-a886-03d4535254a4.png)
+#### 5. Screenshot imagen de los resultados, con get "sin id".
+
+#### Pieces
+![image](https://user-images.githubusercontent.com/55554433/185460359-c8cb6567-527b-40c8-9494-d9634d099c85.png)
+
+#### Providers
+![image](https://user-images.githubusercontent.com/55554433/185460645-14857315-2e8d-4336-b5ed-7cf7b7035463.png)
+
+#### Supplies
+![image](https://user-images.githubusercontent.com/55554433/185460794-75d6620d-22bc-4ec1-beb7-39f42b9fd278.png)
+
