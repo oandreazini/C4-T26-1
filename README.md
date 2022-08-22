@@ -3,7 +3,6 @@
 #### 1. Descripción
 ```
 Demo API REST creada con Spring Tool Suite 4  utilizando varias entidades ER y conectada con base de datos 
-H2.
 ```
 
 #### 2. Link a un demo con el proyecto desplegado: https://c4-t26-1.herokuapp.com/
